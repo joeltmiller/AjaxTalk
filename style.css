@@ -1,0 +1,6 @@
+.isLoading {
+    background-color: green;
+}
+.isNotLoading {
+    background-color: red;
+}
