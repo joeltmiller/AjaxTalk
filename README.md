@@ -1,3 +1,3 @@
 # jQuery-AJAX-HTML
 
-Examples of basic [AJAX](http://api.jquery.com/jquery.ajax/) calls do be used as reference. 
+Examples of basic [AJAX](http://api.jquery.com/jquery.ajax/) calls to be used as reference. 
